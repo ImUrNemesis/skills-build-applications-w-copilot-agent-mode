@@ -18,7 +18,6 @@ In this exercise, we will prompt GitHub Copilot agent mode to create a complete 
 - **How long**: This course takes less than one hour to complete.
 
 In this exercise, you will:
-
 1. Start up a preconfigured development environment for making a multi-tier application.
 1. Prompt in GitHub Copilot Chat and select the edit tab and select agent mode from the edit/agent drop-down.
 1. In this exercise I primarily used the latest default LLM.
